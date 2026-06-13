@@ -1,0 +1,21 @@
+{
+  "name": "JobNewsIndia",
+  "short_name": "JobNewsIndia",
+  "description": "Latest sarkari naukri, private job alerts, UPSC updates and career tips for Indian job seekers.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#c0392b",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
